@@ -1,0 +1,25 @@
+# depslib dependency file v1.0
+1711204383 source:c:\c++\tasks\pr2strdt\main.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdio>
+	<cstring>
+	<stdexcept>
+	"header.h"
+
+1711204511 c:\c++\tasks\pr2strdt\header.h
+
+1711204644 source:c:\c++\tasks\pr2strdt\source.cpp
+	<iostream>
+	<clocale>
+	<fstream>
+	<iomanip>
+	<ctime>
+	<cstdio>
+	<cstring>
+	<stdexcept>
+	"header.h"
+
